@@ -11,7 +11,7 @@
 #include "ui.h"
 
 /*============================================================
- F: transiction view
+ F: transiction view alterando
  =============================================================*/
 
 int wipeView(wipe *gl)
