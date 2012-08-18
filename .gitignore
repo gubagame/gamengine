@@ -37,6 +37,6 @@ Icon?
 ehthumbs.db
 Thumbs.db
 gubagame/.DS_Store
-gubagame/glgame.xcodeproj/project.xcworkspace/xcuserdata/mguerta.xcuserdatad/UserInterfaceState.xcuserstate
+gubagame/glgame.xcodeproj/project.xcworkspace/xcuserdata/**/*
 gubagame/glgame/.DS_Store
 
